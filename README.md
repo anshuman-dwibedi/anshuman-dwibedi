@@ -19,10 +19,10 @@ Portfolio: **add your portfolio URL here**
 ## Featured Projects
 
 - [DevCore Suite](https://github.com/anshuman-dwibedi/devcore-suite)
-- [Restaurant QR Ordering](https://github.com/anshuman-dwibedi/restrodesk)
-- [Real Estate Listings](https://github.com/anshuman-dwibedi/estatecore)
-- [Ecommerce Live Store](https://github.com/anshuman-dwibedi/livestore)
-- [Medical Booking System](https://github.com/anshuman-dwibedi/medibook)
+- [Restrodesk](https://github.com/anshuman-dwibedi/restrodesk)
+- [Estatecore](https://github.com/anshuman-dwibedi/estatecore)
+- [Livestore](https://github.com/anshuman-dwibedi/livestore)
+- [Medibook](https://github.com/anshuman-dwibedi/medibook)
 - [Portfolio](https://github.com/anshuman-dwibedi/portfolio)
 
 ## Tech Stack
