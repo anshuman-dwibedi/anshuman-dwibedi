@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I am Anshuman Dwibedi
 
-<!--
-**anshuman-dwibedi/anshuman-dwibedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PHP and JavaScript Developer | Builder of DevCore Suite
 
-Here are some ideas to get you started:
+I build production-style business web applications with reusable architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proof of work: **4 production-style apps + 1 shared core library**  
+Availability: **Open for remote part-time and contract work**  
+Email: **anshuman.dwibedi.dev@gmail.com**  
+Portfolio: **add your portfolio URL here**
+
+## What I Build
+
+- Full-stack PHP and JavaScript applications
+- Reusable shared core libraries
+- Real-time dashboards using polling and SSE-friendly patterns
+- Business-focused admin panels and public user flows
+
+## Featured Projects
+
+- [DevCore Suite](https://github.com/anshuman-dwibedi/devcore-suite)
+- [Restaurant QR Ordering](https://github.com/anshuman-dwibedi/restrodesk)
+- [Real Estate Listings](https://github.com/anshuman-dwibedi/estatecore)
+- [Ecommerce Live Store](https://github.com/anshuman-dwibedi/livestore)
+- [Medical Booking System](https://github.com/anshuman-dwibedi/medibook)
+- [Portfolio](https://github.com/anshuman-dwibedi/portfolio)
+
+## Tech Stack
+
+- PHP
+- MySQL
+- JavaScript
+- HTML and CSS
+- REST APIs
+- GitHub Actions
+
+## Current Focus
+
+- Cleaner architecture and reusable modules
+- Better project delivery quality and documentation
+- Reliable deployment patterns for low-cost hosting
+
+## Repository Standards (Pinned Repos)
+
+- README includes: problem, features, stack, architecture, setup, screenshots
+- Demo GIF or short video appears near the top
+- API endpoints section is included
+- DB schema section is included
+- Real business use-case section is included
+- Commit history stays clean and meaningful from now onward
+
+## Visual Branding
+
+- Same name, profile photo, and banner style as portfolio
+- Same color identity across badges and cover image
+- Consistent repository naming style
+
+## Contact
+
+- Email: anshuman.dwibedi.dev@gmail.com
+- GitHub: https://github.com/anshuman-dwibedi
+- Portfolio: add your portfolio URL here
