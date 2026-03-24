@@ -18,7 +18,7 @@ Portfolio: **add your portfolio URL here**
 
 ## Featured Projects
 
-- [DevCore Suite](https://github.com/anshuman-dwibedi/devcore-suite)
+- [DevCore Shared](https://github.com/anshuman-dwibedi/devcore-shared)
 - [Restrodesk](https://github.com/anshuman-dwibedi/restrodesk)
 - [Estatecore](https://github.com/anshuman-dwibedi/estatecore)
 - [Livestore](https://github.com/anshuman-dwibedi/livestore)
