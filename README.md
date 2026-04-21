@@ -36,6 +36,7 @@ Portfolio: [Visit My Portfolio](https://anshuman-dwibedi.42web.io)
 
 - ✅ **Week 1 · Day 1–2** — [`aws-ec2-ssh-access`](https://github.com/anshuman-dwibedi/aws-ec2-ssh-access) — Passwordless SSH to an AWS EC2 instance using key-based auth and a custom `~/.ssh/config` alias (`ssh devlab`)
 - ✅ **Week 1 · Day 3–5** — [`disk-monitor`](https://github.com/anshuman-dwibedi/disk-monitor) — Bash script to monitor disk usage, log filesystem usage with timestamps, and send real-time Discord alerts when thresholds are exceeded; cron-ready for automation
+- ✅ **Week 1 · Day 6–10** — [`health-checker`](https://github.com/anshuman-dwibedi/health-checker) — Python and Bash-based API health monitor executing HTTP requests from dynamic JSON configs, featuring intelligent retries, secure .env secret injection, and smart exit codes for CI/CD pipelines.
 
 *This section updates as each deliverable is completed.*
 
